@@ -1,0 +1,9 @@
+Django
+djangorestframework
+django-cors-headers
+django-silk
+psycopg2>=2.9.1
+psycopg2-binary
+python-dotenv
+drf-spectacular
+drf-yasg
